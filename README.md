@@ -58,7 +58,7 @@ TM_MAD_CONF = [
     CLONE_TARGET = "SYSTEM",
     SHARED = "YES",
     DS_MIGRATE = "YES",
-    ALLOW_ORPHANS = "YES"
+    ALLOW_ORPHANS = "YES",
 
     TM_MAD_SYSTEM = "shared",
     LN_TARGET_SHARED = "NONE",
